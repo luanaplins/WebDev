@@ -1,0 +1,120 @@
+body{
+  background-color: #F0F8FF !important;
+  font-family:helvetica;
+  color:#F0F8FF;
+}
+
+.head{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+.header{
+  height: 50px;
+  align-items: center;
+  background-color:#403a92;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header a{
+  color: aquamarine;
+}
+
+
+.parte1{
+  background-color: #F5F5F5;
+  padding-bottom: 25px;
+}
+
+.social a{
+  margin-right: 27px;
+}
+
+.fds{
+  background-color: bisque;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.menu_area{
+  margin-top: 15px;
+}
+
+.logo{
+  width: 150px;
+  margin-top: 10px;
+}
+
+header{
+    padding: 5px;
+}
+
+.images-line img{
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.videos{
+  display: inline;
+}
+
+.ytv{
+  margin:0 auto;
+  width: 100%;
+}
+
+#menuToggle{
+  display: none;
+}
+
+.menu-icon{
+  display: none;
+}
+
+@media screen and (max-width: 1000px){
+}
+
+.arrow-ds img{
+    max-width: 50%;
+    text-align: center;
+    border-radius: 50%;
+}
+
+#botoes-das-secoes h4{
+  display: inline;
+}
+
+#botoes-das-secoes p{
+  display: inline;
+}
+
+#botoes-das-secoes{
+  text-align: right;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  margin-right: 5px;
+}
+
+.footer-cor{
+  background: #E6E6FA;
+  color: black;
+}
+
+.footer_area{
+  padding: 20px;
+  text-align: center;
+}
+
+.footer_area img{
+  max-width: 100px;
+}
+
+#direitos{
+  margin-top: 20px;
+} */
+
+.texto-das-secoes h2{
+  padding-top: 25px;
+  margin-top: 25px;
+}
